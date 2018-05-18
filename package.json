@@ -1,0 +1,27 @@
+{
+  "name": "@reinjs/rein-command",
+  "version": "1.0.0",
+  "description": "The commander library of rein-cli",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/reinjs/rein-command.git"
+  },
+  "keywords": [
+    "cli",
+    "rein",
+    "command"
+  ],
+  "author": "reinjs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reinjs/rein-command/issues"
+  },
+  "homepage": "https://github.com/reinjs/rein-command#readme",
+  "dependencies": {
+    "async-events-listener": "^1.0.2",
+    "koa-compose": "^4.0.0",
+    "ys-dbo": "^1.0.8",
+    "ys-middleware-router": "^1.0.3"
+  }
+}
