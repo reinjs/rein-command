@@ -1,6 +1,6 @@
 {
   "name": "@reinjs/rein-command",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "The commander library of rein-cli",
   "main": "lib/index.js",
   "repository": {
